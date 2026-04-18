@@ -21,7 +21,7 @@ function displayVinyles(list) {
 
 displayVinyles(vinyles);
 
-//Barre de recherche
+/*Barre de recherche
 const searchInput = document.getElementById("search");
 
 searchInput.addEventListener("input", () => {
@@ -50,4 +50,15 @@ sortSelect.addEventListener("change", () => {
   }
 
   displayVinyles(sorted);
+});*/
+// desorder
+document.querySelectorAll(".card").forEach(card => {
+  const rotation = (Math.random() - 0.5) * 10;
+  const translateX = (Math.random() - 0.5) * 20;
+  const translateY = (Math.random() - 0.5) * 20;
+
+  card.style.transform = `
+    rotate(${rotation}deg)
+    translate(${translateX}px, ${translateY}px)
+  `;
 });
