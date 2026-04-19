@@ -1,23 +1,4 @@
 const vinyles = [
-   /*{
-  id: 1,
-  title: "Utopia",
-  artist: "Travis Scott",
-  year: 2023,
-  genre: "Hip-Hop",
-
-  covers: [
-    "url1",
-    "url2",
-    "url3"
-  ],
-
-  tracks: [
-    { title: "HYAENA", duration: "3:42" },
-    { title: "THANK GOD", duration: "3:04" }
-  ]
-}*/
-   
     {
         id: 1,
         title: "Utopia",
@@ -46,7 +27,18 @@ const vinyles = [
     { title: "Telekinesis", duration: "3:25" },
     { title: "Til Further Notice", duration:""},
   ],
-        description: "https://www.discogs.com/fr/release/29155921-Travis-Scott-Utopia"
+    images: [
+    "img/Utopia/Ut1.jpg",
+    "img/Utopia/Ut2.jpg",
+    "img/Utopia/Ut3.jpg",
+    "img/Utopia/Ut4.jpg",
+    "img/Utopia/Ut5.jpg",
+    "img/Utopia/Ut6.jpg",
+    "img/Utopia/Ut7.jpg",
+    "img/Utopia/Ut8.jpg",
+    "img/Utopia/Ut9.jpg",
+    "img/Utopia/Ut10.jpg",
+  ]
     },
     {
         id: 2,
@@ -74,6 +66,14 @@ const vinyles = [
     { title: "ALL I KNOW", duration: "" },
     { title: "DIE FOR U", duration: "" },
     { title: "I FEEL IT COMIN", duration: "" },
+  ],
+  images: [
+    "img/Starboy/Star1.jpg",
+    "img/Starboy/Star2.jpg",
+    "img/Starboy/Star3.jpg",
+    "img/Starboy/Star4.jpg",
+    "img/Starboy/Star5.jpg",
+    "img/Starboy/Star6.jpg",
   ]
     },
     {
@@ -94,7 +94,13 @@ const vinyles = [
     { title: "Hot", duration: "3:57" },
     { title: "Dreams From Bunker Hill", duration: "3:39" },
     { title: "Ambien Slide", duration: "3:33" },
-        ]
+        ],
+    images: [
+    "img/Xs/P1.jpg",
+    "img/Xs/P2.jpg",
+    "img/Xs/P3.jpg",
+    ],
+
     },
     {
         id: 4,
@@ -114,7 +120,14 @@ const vinyles = [
             { title: "Truly", duration: "4:03" },
             { title: "John Wayne", duration: "4:18" },
             { title: "Young & Dumb", duration: "4:33" },
-        ]
+        ],
+    images: [
+    "img/Cas/P1.jpg",
+    "img/Cas/P2.jpg",
+    "img/Cas/P3.jpg",
+    "img/Cas/P4.jpg",
+    ],
+
     },
     {
         id: 5,
@@ -133,7 +146,14 @@ const vinyles = [
             { title: "Cry", duration: "4:16" },
             { title: "Falling in Love", duration: "4:05" },
             { title: "Pure", duration: "4:14" },
-        ]
+        ],
+        images: [
+    "img/Cry/P1.jpg",
+    "img/Cry/P2.jpg",
+    "img/Cry/P3.jpg",
+    "img/Cry/P4.jpg",
+    "img/Cry/P5.jpg",
+    ],
 
     },
     {
@@ -147,7 +167,13 @@ const vinyles = [
             { title: "Symphonie n°5 en UT Mineur", duration: "" },
             { title: "Symphonie n°8 en Si Mineur 'Inachevée'", duration: "" },
             { title: "Symphonie n°32 en Sol Majeur, K.318", duration: "" },
-        ]
+        ],
+    images: [
+    "img/3s/P1.jpg",
+    "img/3s/P2.jpg",
+    "img/3s/P3.jpg",
+    ],
+
     },
     {
         id: 7,
@@ -165,7 +191,13 @@ const vinyles = [
             { title: "Mazurka op.17 n°1", duration: "2:17" },
             { title: "Mazurka op.17 n°2", duration: "1:50" },
             { title: "Mazurka op.17 n°4", duration: "4:15" },
-        ]
+        ],
+    images: [
+    "img/Cc1/P1.jpg",
+    "img/Cc1/P2.jpg",
+    "img/Cc1/P3.jpg",
+    "img/Cc1/P4.jpg",
+    ],
 
     },
     {
@@ -178,7 +210,13 @@ const vinyles = [
         tracks: [
             { title: "Accidental Lover", duration: "" },
             { title: "I've Found Love 'Now I've Found You'", duration: "" },
-        ]
+        ],
+    images: [
+    "img/LnK/P1.jpg",
+    "img/LnK/P2.jpg",
+    "img/LnK/P3.jpg",
+    "img/LnK/P4.jpg",
+    ],
 
     },
     {
@@ -192,7 +230,12 @@ const vinyles = [
             { title: "Rhapsodie Hongroise n°2", duration: "" },
             { title: "Airs Bohemiens", duration: "" },
             { title: "Les Préludes", duration: "" },
-        ]
+        ],
+    images: [
+    "img/Cc2/P1.jpg",
+    "img/Cc2/P2.jpg",
+    "img/Cc2/P3.jpg",
+    ],
     },
     {
         id: 10,
@@ -204,7 +247,15 @@ const vinyles = [
         tracks: [
             { title: "Cantate BWV 106 'Actus Tragicus'", duration: "" },
             { title: "Cantate BWV 106 'Ach wie flüchtig, ach wie nichtig'", duration: "" },
-        ]
+        ],
+    images: [
+    "img/Bmv/P1.jpg",
+    "img/Bmv/P2.jpg",
+    "img/Bmv/P3.jpg",
+    "img/Bmv/P4.jpg",
+    "img/Bmv/P5.jpg",
+    "img/Bmv/P6.jpg",
+    ],
     },
     {
         id: 11,
@@ -218,7 +269,12 @@ const vinyles = [
             { title: "Alegro con grazia", duration: "" },
             { title: "Allegro molto vivace", duration: "" },
             { title: "Finale : Adagio lamentoso", duration: "" },
-        ]
+        ],
+        images: [
+    "img/Tchaïkovski/P1.jpg",
+    "img/Tchaïkovski/P2.jpg",
+    "img/Tchaïkovski/P3.jpg",
+        ],
     },
     {
         id: 12,
@@ -232,7 +288,12 @@ const vinyles = [
             { title: "L'été (L'Estate)", duration: "" },
             { title: "L'Automne (L'Autounno)", duration: "" },
             { title: "L'Hivers (L'Inverno)", duration: "" },
-        ]
+        ],
+    images: [
+    "img/L4S/P1.jpg",
+    "img/L4S/P2.jpg",
+    "img/L4S/P3.jpg",
+    ],
     },
     {
         id: 13,
@@ -246,7 +307,12 @@ const vinyles = [
             { title: "Satz: Andante con moto", duration: "" },
             { title: "Satz: Allegro - attacca", duration: "" },
             { title: "Satz: Allegro", duration: "" },
-        ]
+        ],
+    images: [
+    "img/Beethoven/P1.jpg",
+    "img/Beethoven/P2.jpg",
+    "img/Beethoven/P3.jpg",
+    ],
     },
     {
         id: 14,
@@ -270,7 +336,13 @@ const vinyles = [
             { title: "Mé Qué, Mé Qué", duration: "2:39" },
             { title: "Alléluia", duration: "3:10" },
             { title: "La Bagarre!...", duration: "3:12" },
-        ]
+        ],
+    images: [
+    "img/CA1/P1.jpg",
+    "img/CA1/P2.jpg",
+    "img/CA1/P3.jpg",
+    ],
+
     },
     {
         id: 15,
@@ -290,6 +362,12 @@ const vinyles = [
             { title: "Mes Emmerdes", duration: "3:04" },
             { title: "Comme Ils Disent", duration: "4:53" },
             { title: "Que C'est Triste Venise", duration: "2:36" },
-        ]
+        ],
+        images: [
+    "img/CA2/P1.jpg",
+    "img/CA2/P2.jpg",
+    "img/CA2/P3.jpg",
+    "img/CA2/P4.jpg",
+    ],
     }
 ]
