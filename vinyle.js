@@ -32,3 +32,16 @@ vinyle.tracks.forEach(track => {
   li.textContent = `${track.title} (${track.duration})`;
   trackList.appendChild(li);
 });
+
+const gallery = document.getElementById("gallery");
+
+if (vinyle.images) {
+  vinyle.images.forEach(path => {
+    const img = document.createElement("img");
+    img.src = path;
+    img.style.width = "150px";
+    img.style.margin = "5px";
+
+    gallery.appendChild(img);
+  });
+}
