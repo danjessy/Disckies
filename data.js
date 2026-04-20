@@ -28,15 +28,15 @@ const vinyles = [
     { title: "Til Further Notice", duration:""},
   ],
     images: [
-    "img/Utopia/Ut1.jpg",
-    "img/Utopia/Ut2.jpg",
-    "img/Utopia/Ut3.jpg",
-    "img/Utopia/Ut4.jpg",
-    "img/Utopia/Ut5.jpg",
-    "img/Utopia/Ut7.jpg",
-    "img/Utopia/Ut8.jpg",
-    "img/Utopia/Ut9.jpg",
-    "img/Utopia/Ut10.jpg",
+    "img/Utopia/Ut1.webp",
+    "img/Utopia/Ut2.webp",
+    "img/Utopia/Ut3.webp",
+    "img/Utopia/Ut4.webp",
+    "img/Utopia/Ut5.webp",
+    "img/Utopia/Ut7.webp",
+    "img/Utopia/Ut8.webp",
+    "img/Utopia/Ut9.webp",
+    "img/Utopia/Ut10.webp",
   ]
     },
     {
@@ -67,12 +67,12 @@ const vinyles = [
     { title: "I FEEL IT COMIN", duration: "" },
   ],
   images: [
-    "img/Starboy/Star1.jpg",
-    "img/Starboy/Star2.jpg",
-    "img/Starboy/Star3.jpg",
-    "img/Starboy/Star4.jpg",
-    "img/Starboy/Star5.jpg",
-    "img/Starboy/Star6.jpg",
+    "img/Starboy/Star1.webp",
+    "img/Starboy/Star2.webp",
+    "img/Starboy/Star3.webp",
+    "img/Starboy/Star4.webp",
+    "img/Starboy/Star5.webp",
+    "img/Starboy/Star6.webp",
   ]
     },
     {
@@ -95,9 +95,9 @@ const vinyles = [
     { title: "Ambien Slide", duration: "3:33" },
         ],
     images: [
-    "img/Xs/P1.jpg",
-    "img/Xs/P2.jpg",
-    "img/Xs/P3.jpg",
+    "img/Xs/P1.webp",
+    "img/Xs/P2.webp",
+    "img/Xs/P3.webp",
     ],
 
     },
@@ -121,10 +121,10 @@ const vinyles = [
             { title: "Young & Dumb", duration: "4:33" },
         ],
     images: [
-    "img/Cas/P1.jpg",
-    "img/Cas/P2.jpg",
-    "img/Cas/P3.jpg",
-    "img/Cas/P4.jpg",
+    "img/Cas/P1.webp",
+    "img/Cas/P2.webp",
+    "img/Cas/P3.webp",
+    "img/Cas/P4.webp",
     ],
 
     },
@@ -147,11 +147,11 @@ const vinyles = [
             { title: "Pure", duration: "4:14" },
         ],
         images: [
-    "img/Cry/P1.jpg",
-    "img/Cry/P2.jpg",
-    "img/Cry/P3.jpg",
-    "img/Cry/P4.jpg",
-    "img/Cry/P5.jpg",
+    "img/Cry/P1.webp",
+    "img/Cry/P2.webp",
+    "img/Cry/P3.webp",
+    "img/Cry/P4.webp",
+    "img/Cry/P5.webp",
     ],
 
     },
@@ -168,9 +168,9 @@ const vinyles = [
             { title: "Symphonie n°32 en Sol Majeur, K.318", duration: "" },
         ],
     images: [
-    "img/3s/P1.jpg",
-    "img/3s/P2.jpg",
-    "img/3s/P3.jpg",
+    "img/3s/P1.webp",
+    "img/3s/P2.webp",
+    "img/3s/P3.webp",
     ],
 
     },
@@ -192,10 +192,10 @@ const vinyles = [
             { title: "Mazurka op.17 n°4", duration: "4:15" },
         ],
     images: [
-    "img/Cc1/P1.jpg",
-    "img/Cc1/P2.jpg",
-    "img/Cc1/P3.jpg",
-    "img/Cc1/P4.jpg",
+    "img/Cc1/P1.webp",
+    "img/Cc1/P2.webp",
+    "img/Cc1/P3.webp",
+    "img/Cc1/P4.webp",
     ],
 
     },
@@ -211,10 +211,10 @@ const vinyles = [
             { title: "I've Found Love 'Now I've Found You'", duration: "" },
         ],
     images: [
-    "img/LnK/P1.jpg",
-    "img/LnK/P2.jpg",
-    "img/LnK/P3.jpg",
-    "img/LnK/P4.jpg",
+    "img/LnK/P1.webp",
+    "img/LnK/P2.webp",
+    "img/LnK/P3.webp",
+    "img/LnK/P4.webp",
     ],
 
     },
@@ -231,9 +231,9 @@ const vinyles = [
             { title: "Les Préludes", duration: "" },
         ],
     images: [
-    "img/Cc2/P1.jpg",
-    "img/Cc2/P2.jpg",
-    "img/Cc2/P3.jpg",
+    "img/Cc2/P1.webp",
+    "img/Cc2/P2.webp",
+    "img/Cc2/P3.webp",
     ],
     },
     {
@@ -248,12 +248,12 @@ const vinyles = [
             { title: "Cantate BWV 106 'Ach wie flüchtig, ach wie nichtig'", duration: "" },
         ],
     images: [
-    "img/Bmv/P1.jpg",
-    "img/Bmv/P2.jpg",
-    "img/Bmv/P3.jpg",
-    "img/Bmv/P4.jpg",
-    "img/Bmv/P5.jpg",
-    "img/Bmv/P6.jpg",
+    "img/Bmv/P1.webp",
+    "img/Bmv/P2.webp",
+    "img/Bmv/P3.webp",
+    "img/Bmv/P4.webp",
+    "img/Bmv/P5.webp",
+    "img/Bmv/P6.webp",
     ],
     },
     {
@@ -270,9 +270,9 @@ const vinyles = [
             { title: "Finale : Adagio lamentoso", duration: "" },
         ],
         images: [
-    "img/Tchaïkovski/P1.jpg",
-    "img/Tchaïkovski/P2.jpg",
-    "img/Tchaïkovski/P3.jpg",
+    "img/Tchaïkovski/P1.webp",
+    "img/Tchaïkovski/P2.webp",
+    "img/Tchaïkovski/P3.webp",
         ],
     },
     {
@@ -289,9 +289,9 @@ const vinyles = [
             { title: "L'Hivers (L'Inverno)", duration: "" },
         ],
     images: [
-    "img/L4S/P1.jpg",
-    "img/L4S/P2.jpg",
-    "img/L4S/P3.jpg",
+    "img/L4S/P1.webp",
+    "img/L4S/P2.webp",
+    "img/L4S/P3.webp",
     ],
     },
     {
@@ -308,9 +308,9 @@ const vinyles = [
             { title: "Satz: Allegro", duration: "" },
         ],
     images: [
-    "img/Beethoven/P1.jpg",
-    "img/Beethoven/P2.jpg",
-    "img/Beethoven/P3.jpg",
+    "img/Beethoven/P1.webp",
+    "img/Beethoven/P2.webp",
+    "img/Beethoven/P3.webp",
     ],
     },
     {
@@ -337,9 +337,9 @@ const vinyles = [
             { title: "La Bagarre!...", duration: "3:12" },
         ],
     images: [
-    "img/CA1/P1.jpg",
-    "img/CA1/P2.jpg",
-    "img/CA1/P3.jpg",
+    "img/CA1/P1.webp",
+    "img/CA1/P2.webp",
+    "img/CA1/P3.webp",
     ],
 
     },
@@ -363,10 +363,10 @@ const vinyles = [
             { title: "Que C'est Triste Venise", duration: "2:36" },
         ],
         images: [
-    "img/CA2/P1.jpg",
-    "img/CA2/P2.jpg",
-    "img/CA2/P3.jpg",
-    "img/CA2/P4.jpg",
+    "img/CA2/P1.webp",
+    "img/CA2/P2.webp",
+    "img/CA2/P3.webp",
+    "img/CA2/P4.webp",
     ],
     }
 ]
