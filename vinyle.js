@@ -39,7 +39,7 @@ if (vinyle.images) {
   vinyle.images.forEach(path => {
     const img = document.createElement("img");
     img.src = path;
-    img.style.width = "150px";
+    img.style.width = "300px";
     img.style.margin = "5px";
 
     gallery.appendChild(img);
